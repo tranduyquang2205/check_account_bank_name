@@ -1,0 +1,573 @@
+{
+    "udfFields" : [ {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=logo_bnp"
+      } ],
+      "udfName" : "BNP Paribas - Chi nhánh HCM",
+      "udfValue" : "963666",
+      "udfObjectValue" : "BNPPARIBASHCM"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=logo_bnp"
+      } ],
+      "udfName" : "BNP Paribas - Chi nhánh Hà Nội",
+      "udfValue" : "963668",
+      "udfObjectValue" : "BNPPARIBASHN"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=logo_cathayhcm"
+      } ],
+      "udfName" : "Cathay United Bank – Chi nhánh Hồ Chí Minh ",
+      "udfValue" : "168999",
+      "udfObjectValue" : "CUBHCM"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=logo_svfc"
+      } ],
+      "udfName" : "Công ty Tài chính TNHH MTV Shinhan Việt Nam",
+      "udfValue" : "963368",
+      "udfObjectValue" : "SVFC"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=logo_mafc_247"
+      } ],
+      "udfName" : "Mirae Asset Finance Việt Nam",
+      "udfValue" : "977777",
+      "udfObjectValue" : "MAFC"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=logo_napas"
+      } ],
+      "udfName" : "Napas247 bằng mã VietQR",
+      "udfValue" : "971100",
+      "udfObjectValue" : "NAPAS"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970409.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Bắc Á",
+      "udfValue" : "970409",
+      "udfObjectValue" : "BAB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=logo_bvb"
+      } ],
+      "udfName" : "Ngân hàng  TMCP Bản Việt",
+      "udfValue" : "970454",
+      "udfObjectValue" : "BVBank"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=logo_klb_ib"
+      } ],
+      "udfName" : "Ngân hàng  TMCP Kiên Long",
+      "udfValue" : "970452",
+      "udfObjectValue" : "KLB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=logo_citibank"
+      } ],
+      "udfName" : "Ngân hàng Citibank, N.A, - Chi nhánh Hà Nội",
+      "udfValue" : "533948",
+      "udfObjectValue" : "CITIBANK VIETNAM"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft796500.png"
+      } ],
+      "udfName" : "Ngân hàng DBS - Chi nhánh HCM",
+      "udfValue" : "796500",
+      "udfObjectValue" : "DBS"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970446.png"
+      } ],
+      "udfName" : "Ngân hàng Hợp Tác Xã Việt Nam",
+      "udfValue" : "970446",
+      "udfObjectValue" : "CO-OP BANK"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970456.png"
+      } ],
+      "udfName" : "Ngân hàng IBK - chi nhánh HCM",
+      "udfValue" : "970456",
+      "udfObjectValue" : "IBKHCM"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970455.png"
+      } ],
+      "udfName" : "Ngân hàng IBK - chi nhánh Hà Nội",
+      "udfValue" : "970455",
+      "udfObjectValue" : "IBK"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=keb_hcm"
+      } ],
+      "udfName" : "Ngân hàng KEB Hana Chi nhánh HCM",
+      "udfValue" : "970466",
+      "udfObjectValue" : "KEBHCM"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=keb_hn"
+      } ],
+      "udfName" : "Ngân hàng KEB Hana chi nhánh Hà Nội",
+      "udfValue" : "970467",
+      "udfObjectValue" : "KEBHN"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970462.png"
+      } ],
+      "udfName" : "Ngân hàng Kookmin - Chi nhánh HCM",
+      "udfValue" : "970463",
+      "udfObjectValue" : "KBHCM"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970462.png"
+      } ],
+      "udfName" : "Ngân hàng Kookmin - Chi nhánh Hà Nội",
+      "udfValue" : "970462",
+      "udfObjectValue" : "KBHN"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970421.png"
+      } ],
+      "udfName" : "Ngân hàng Liên doanh Việt - Nga",
+      "udfValue" : "970421",
+      "udfObjectValue" : "VRB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft801011.png"
+      } ],
+      "udfName" : "Ngân hàng NONGHYUP - Chi nhánh HN",
+      "udfValue" : "801011",
+      "udfObjectValue" : "NHBHN"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970405.png"
+      } ],
+      "udfName" : "Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam",
+      "udfValue" : "970405",
+      "udfObjectValue" : "AGRIBANK"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970444.png"
+      } ],
+      "udfName" : "Ngân hàng TM TNHH MTV Xây dựng Việt Nam",
+      "udfValue" : "970444",
+      "udfObjectValue" : "CBBank"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970425.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP An Bình",
+      "udfValue" : "970425",
+      "udfObjectValue" : "ABB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970438.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Bảo Việt",
+      "udfValue" : "970438",
+      "udfObjectValue" : "BVB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=logo_lpbank"
+      } ],
+      "udfName" : "Ngân hàng TMCP Bưu Điện Liên Việt",
+      "udfValue" : "970449",
+      "udfObjectValue" : "LPBank"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970415.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Công Thương Việt Nam",
+      "udfValue" : "970415",
+      "udfObjectValue" : "CTG"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970426.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Hàng Hải Việt Nam",
+      "udfValue" : "970426",
+      "udfObjectValue" : "MSB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970407.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Kỹ thương Việt Nam",
+      "udfValue" : "970407",
+      "udfObjectValue" : "TCB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=logo_namabank"
+      } ],
+      "udfName" : "Ngân hàng TMCP Nam Á",
+      "udfValue" : "970428",
+      "udfObjectValue" : "NAMABANK"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970436.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Ngoại Thương Việt Nam",
+      "udfValue" : "970436",
+      "udfObjectValue" : "VCB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970437.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh ",
+      "udfValue" : "970437",
+      "udfObjectValue" : "HDBank"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970448.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Phương Đông",
+      "udfValue" : "970448",
+      "udfObjectValue" : "OCB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970422.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Quân Đội",
+      "udfValue" : "970422",
+      "udfObjectValue" : "MB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970419.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Quốc Dân",
+      "udfValue" : "970419",
+      "udfObjectValue" : "NCB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970441.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Quốc tế Việt Nam",
+      "udfValue" : "970441",
+      "udfObjectValue" : "VIB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970429.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Sài Gòn",
+      "udfValue" : "970429",
+      "udfObjectValue" : "SCB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970400.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Sài Gòn Công Thương",
+      "udfValue" : "970400",
+      "udfObjectValue" : "SAIGONBANK"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970443.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Sài Gòn Hà Nội",
+      "udfValue" : "970443",
+      "udfObjectValue" : "SHB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970403.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Sài Gòn Thương Tín ",
+      "udfValue" : "970403",
+      "udfObjectValue" : "STB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=logo_pgbank"
+      } ],
+      "udfName" : "Ngân hàng TMCP Thịnh vượng và Phát triển",
+      "udfValue" : "970430",
+      "udfObjectValue" : "PGBank"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970423.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Tiên Phong",
+      "udfValue" : "970423",
+      "udfObjectValue" : "TPB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970432.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Việt Nam Thịnh Vượng",
+      "udfValue" : "970432",
+      "udfObjectValue" : "VPB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft546034.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Việt Nam Thịnh Vượng - Ngân hàng số CAKE by VPBank",
+      "udfValue" : "546034",
+      "udfObjectValue" : "CAKE"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft546035.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Việt Nam Thịnh Vượng - Ngân hàng số Ubank by VPBank",
+      "udfValue" : "546035",
+      "udfObjectValue" : "UBANK"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970431.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Xuất nhập khẩu Việt Nam",
+      "udfValue" : "970431",
+      "udfObjectValue" : "EIB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970416.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Á Châu",
+      "udfValue" : "970416",
+      "udfObjectValue" : "ACB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970440.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Đông Nam Á",
+      "udfValue" : "970440",
+      "udfObjectValue" : "SEAB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970406.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Đông Á",
+      "udfValue" : "970406",
+      "udfObjectValue" : "DAB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970412.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Đại Chúng Việt Nam",
+      "udfValue" : "970412",
+      "udfObjectValue" : "PVcomBank"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970414.png"
+      } ],
+      "udfName" : "Ngân hàng TMCP Đại Dương",
+      "udfValue" : "970414",
+      "udfObjectValue" : "OJB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=logo_bidv"
+      } ],
+      "udfName" : "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam",
+      "udfValue" : "970418",
+      "udfObjectValue" : "BIDV"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970434.png"
+      } ],
+      "udfName" : "Ngân hàng TNHH Indovina",
+      "udfValue" : "970434",
+      "udfObjectValue" : "IVB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft422589.png"
+      } ],
+      "udfName" : "Ngân hàng TNHH MTV CIMB",
+      "udfValue" : "422589",
+      "udfObjectValue" : "CIMB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft458761.png"
+      } ],
+      "udfName" : "Ngân hàng TNHH MTV HSBC Việt Nam",
+      "udfValue" : "458761",
+      "udfObjectValue" : "HSBC"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970442.png"
+      } ],
+      "udfName" : "Ngân hàng TNHH MTV Hongleong Việt Nam",
+      "udfValue" : "970442",
+      "udfObjectValue" : "HLB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970439.png"
+      } ],
+      "udfName" : "Ngân hàng TNHH MTV Public Việt Nam",
+      "udfValue" : "970439",
+      "udfObjectValue" : "PBVN"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970424.png"
+      } ],
+      "udfName" : "Ngân hàng TNHH MTV Shinhan Việt Nam",
+      "udfValue" : "970424",
+      "udfObjectValue" : "SHBVN"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970410.png"
+      } ],
+      "udfName" : "Ngân hàng TNHH MTV Standard Chartered Bank (Vietnam) Limited",
+      "udfValue" : "970410",
+      "udfObjectValue" : "SCVN"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970408.png"
+      } ],
+      "udfName" : "Ngân hàng Thương mại Trách nhiệm hữu hạn một thành viên Dầu Khí Toàn Cầu",
+      "udfValue" : "970408",
+      "udfObjectValue" : "GPB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970433.png"
+      } ],
+      "udfName" : "Ngân hàng Việt Nam Thương Tín",
+      "udfValue" : "970433",
+      "udfObjectValue" : "VIETBANK"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=logo_vbsp"
+      } ],
+      "udfName" : "Ngân hàng chính sách xã hội Việt Nam",
+      "udfValue" : "999888",
+      "udfObjectValue" : "VBSP"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=logo_liobank_247"
+      } ],
+      "udfName" : "Ngân hàng số Liobank by OCB",
+      "udfValue" : "963369",
+      "udfObjectValue" : "Liobank"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=logo_timo"
+      } ],
+      "udfName" : "Ngân hàng số Timo",
+      "udfValue" : "963388",
+      "udfObjectValue" : "Timo by Ban Viet Bank"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=logo_bidc"
+      } ],
+      "udfName" : "Ngân hàng Đầu tư và Phát triển Campuchia – Chi nhánh Hà Nội",
+      "udfValue" : "555666",
+      "udfObjectValue" : "BIDC"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft668888.png"
+      } ],
+      "udfName" : "Ngân hàng đại chúng TNHH Kasikornbank – chi nhánh Thành phố Hồ Chí Minh",
+      "udfValue" : "668888",
+      "udfObjectValue" : "KSK HCM"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=logo_mds"
+      } ],
+      "udfName" : "Trung tâm Dịch vụ số Mobifone – Chi nhánh Tổng Công ty viễn thông Mobifone",
+      "udfValue" : "971032",
+      "udfObjectValue" : "MVAS"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=vnpt_money_01"
+      } ],
+      "udfName" : "Trung tâm dịch vụ tài chính số VNPT – Chi nhánh Tổng công ty truyền thông",
+      "udfValue" : "971011",
+      "udfObjectValue" : "VNPT Money"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=viettel_money_01"
+      } ],
+      "udfName" : "Tổng Công ty Dịch vụ Số Viettel – Chi nhánh Tập đoàn Công nghiệp Viễn thông Quân đội",
+      "udfValue" : "971005",
+      "udfObjectValue" : "Viettel Money"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/ib/image.html?imgid=logo_umee"
+      } ],
+      "udfName" : "UMEE By Kienlongbank",
+      "udfValue" : "963399",
+      "udfObjectValue" : "UMEE"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970458.png"
+      } ],
+      "udfName" : "United Overseas Bank - Chi nhánh thành phố Hồ Chí Minh",
+      "udfValue" : "970458",
+      "udfObjectValue" : "UOB"
+    }, {
+      "udfFields" : [ {
+        "udfName" : "LOGO",
+        "udfValue" : "https://ebanking.vietabank.com.vn/policies/images/ibft/ibft970457.png"
+      } ],
+      "udfName" : "Woori Bank Việt Nam",
+      "udfValue" : "970457",
+      "udfObjectValue" : "WOORI"
+    } ],
+    "result" : { },
+    "extendedResponse" : { }
+  }

@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+requests
+unidecode
+pysocks
+bs4
+lxml
+pyppeteer
+pycryptodome
+pycryptodomex

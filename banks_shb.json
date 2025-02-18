@@ -1,0 +1,350 @@
+[
+    {
+        "bank_cif": "323",
+        "bank_short_name": "ABBank - Ngân hàng An Bình",
+        "bank_name": "ABBank - An Binh Bank",
+        "bank_code": "ABB"
+    },
+    {
+        "bank_cif": "307",
+        "bank_short_name": "ACB - Ngân hàng Á Châu",
+        "bank_name": "ACB - Asia Commercial Bank",
+        "bank_code": "ACB"
+    },
+    {
+        "bank_cif": "602",
+        "bank_short_name": "ANZ - Ngân hàng ANZ VN",
+        "bank_name": "ANZ Bank Vietnam",
+        "bank_code": "ANZ"
+    },
+    {
+        "bank_cif": "204",
+        "bank_short_name": "Agribank - Ngân hàng NN và PTNT VN",
+        "bank_name": "Agribank - Vietnam Bank for Agriculture and Rural Development",
+        "bank_code": "VBA"
+    },
+    {
+        "bank_cif": "202",
+        "bank_short_name": "BIDV - Ngân hàng ĐT và PT VN",
+        "bank_name": "BIDV - Bank for Investment and Development of Vietnam",
+        "bank_code": "BIDV"
+    },
+    {
+        "bank_cif": "614",
+        "bank_short_name": "BNP - PARIBAS",
+        "bank_name": "BNP - PARIBAS",
+        "bank_code": "BNP"
+    },
+    {
+        "bank_cif": "313",
+        "bank_short_name": "BacABank - Ngân hàng Bắc Á",
+        "bank_name": "BacABank - North Asia Bank",
+        "bank_code": "BAB"
+    },
+    {
+        "bank_cif": "615",
+        "bank_short_name": "Bank of Communications",
+        "bank_name": "Bank of Communications",
+        "bank_code": "BOC"
+    },
+    {
+        "bank_cif": "359",
+        "bank_short_name": "BaoVietBank - Ngân hàng Bảo Việt",
+        "bank_name": "BaoVietBank - BaoViet Bank",
+        "bank_code": "BVB"
+    },
+    {
+        "bank_cif": "339",
+        "bank_short_name": "CBBank - Ngân hàng Xây dựng",
+        "bank_name": "CBBank - Vietnam Construction Bank",
+        "bank_code": "CBB"
+    },
+    {
+        "bank_cif": "611",
+        "bank_short_name": "China Construction Bank Corp",
+        "bank_name": "China Construction Bank Corp",
+        "bank_code": "CCB"
+    },
+    {
+        "bank_cif": "654",
+        "bank_short_name": "Citibank N.A CN TP HCM",
+        "bank_name": "Ngan hang Citibank N.A CN TP HCM",
+        "bank_code": "CITIBANKHCM"
+    },
+    {
+        "bank_cif": "605",
+        "bank_short_name": "Citibank VN",
+        "bank_name": "Citibank Vietnam",
+        "bank_code": "CITIBANK"
+    },
+    {
+        "bank_cif": "808",
+        "bank_short_name": "Công ty Tài chính JACCS",
+        "bank_name": "Cong ty Tai chinh JACCS",
+        "bank_code": "JACCS"
+    },
+    {
+        "bank_cif": "304",
+        "bank_short_name": "DongABank - Ngân hàng Đông Á",
+        "bank_name": "DongABank - DongA Bank",
+        "bank_code": "DOB"
+    },
+    {
+        "bank_cif": "658",
+        "bank_short_name": "Esun Bank CN Đồng Nai",
+        "bank_name": "NH NH TNHH E.SUN CN Dong Nai",
+        "bank_code": "ESUN"
+    },
+    {
+        "bank_cif": "305",
+        "bank_short_name": "Eximbank - Ngân hàng Xuất nhập khẩu",
+        "bank_name": "Eximbank - Vietnam Export Import Bank",
+        "bank_code": "EIB"
+    },
+    {
+        "bank_cif": "630",
+        "bank_short_name": "First Commercial Bank",
+        "bank_name": "NH First Commercial Bank",
+        "bank_code": "FCB"
+    },
+    {
+        "bank_cif": "320",
+        "bank_short_name": "GPBank - Ngân hàng Dầu khí toàn cầu",
+        "bank_name": "GPBank - GP Bank",
+        "bank_code": "GPB"
+    },
+    {
+        "bank_cif": "321",
+        "bank_short_name": "HDBank - Ngân hàng Phát triển TPHCM",
+        "bank_name": "HDBank - HD Bank",
+        "bank_code": "HDB"
+    },
+    {
+        "bank_cif": "617",
+        "bank_short_name": "HSBC Bank VN",
+        "bank_name": "HSBC Bank Vietnam",
+        "bank_code": "HSBC"
+    },
+    {
+        "bank_cif": "656",
+        "bank_short_name": "Hana Bank CN TP Hồ Chí Minh",
+        "bank_name": "Hana Bank CN TP Hồ Chí Minh",
+        "bank_code": "KEBHANAHCM"
+    },
+    {
+        "bank_cif": "649",
+        "bank_short_name": "ICBC - Ngân Hàng Công Thương Trung Quốc",
+        "bank_name": "Industrial and Commer Bank of China",
+        "bank_code": "ICBC"
+    },
+    {
+        "bank_cif": "502",
+        "bank_short_name": "IVB - Ngân hàng Indovina",
+        "bank_name": "IVB - Indovina Bank",
+        "bank_code": "IVB"
+    },
+    {
+        "bank_cif": "353",
+        "bank_short_name": "KienLongBank - Ngân hàng Kiên Long",
+        "bank_name": "KienLongBank - Kien Long Bank",
+        "bank_code": "KLB"
+    },
+    {
+        "bank_cif": "357",
+        "bank_short_name": "LienvietPostbank - Ngân hàng Bưu điện Liên Việt",
+        "bank_name": "LienvietPostbank - Lien Viet Post Bank",
+        "bank_code": "LPB"
+    },
+    {
+        "bank_cif": "311",
+        "bank_short_name": "MB - Ngân hàng Quân Đội",
+        "bank_name": "MB - MB Bank",
+        "bank_code": "MB"
+    },
+    {
+        "bank_cif": "302",
+        "bank_short_name": "MaritimeBank - Ngân hàng Hàng Hải",
+        "bank_name": "MaritimeBank - Maritime Bank",
+        "bank_code": "MSB"
+    },
+    {
+        "bank_cif": "352",
+        "bank_short_name": "NCB - Ngân hàng Quốc Dân",
+        "bank_name": "NCB - National Citizen Bank",
+        "bank_code": "NCB"
+    },
+    {
+        "bank_cif": "601",
+        "bank_short_name": "NH BPCEIOM CN TPHCM",
+        "bank_name": "NH BPCEIOM CN TPHCM",
+        "bank_code": "BPCE"
+    },
+    {
+        "bank_cif": "653",
+        "bank_short_name": "NH MUFG - CN Hà Nội",
+        "bank_name": "MUFG Bank Hanoi",
+        "bank_code": "MUFG"
+    },
+    {
+        "bank_cif": "655",
+        "bank_short_name": "NH Taipei Fubon CN Binh Duong",
+        "bank_name": "NH Taipei Fubon CN Binh Duong",
+        "bank_code": "TFB"
+    },
+    {
+        "bank_cif": "651",
+        "bank_short_name": "NHTM Taipei Fubon CN TP HCM",
+        "bank_name": "NHTM Taipei Fubon CN TP HCM",
+        "bank_code": "TFB"
+    },
+    {
+        "bank_cif": "324",
+        "bank_short_name": "NHTMCP Việt Hoa",
+        "bank_name": "NHTMCP Viet Hoa",
+        "bank_code": "VHB"
+    },
+    {
+        "bank_cif": "315",
+        "bank_short_name": "NHTMCP Vũng tàu",
+        "bank_name": "NHTMCP Vung tau",
+        "bank_code": "VT"
+    },
+    {
+        "bank_cif": "306",
+        "bank_short_name": "NamABank - Ngân hàng Nam Á",
+        "bank_name": "NamABank - Nam A Bank",
+        "bank_code": "NAB"
+    },
+    {
+        "bank_cif": "652",
+        "bank_short_name": "Ngân Hàng Công Nghiệp Hàn Quốc CN Hà Nội",
+        "bank_name": "NH Cong nghiep Han Quoc CN Ha Noi",
+        "bank_code": "KDBHN"
+    },
+    {
+        "bank_cif": "333",
+        "bank_short_name": "OCB - Ngân hàng Phương Đông",
+        "bank_name": "OCB - Orient Commercial Bank",
+        "bank_code": "OCB"
+    },
+    {
+        "bank_cif": "319",
+        "bank_short_name": "OceanBank - Ngân hàng Đại Dương",
+        "bank_name": "OceanBank - Ocean Bank",
+        "bank_code": "Oceanbank"
+    },
+    {
+        "bank_cif": "341",
+        "bank_short_name": "PGBank - Ngân hàng Xăng dầu Petrolimex",
+        "bank_name": "PGBank - Petrolimex Group Bank",
+        "bank_code": "PGB"
+    },
+    {
+        "bank_cif": "360",
+        "bank_short_name": "PVcomBank – Ngân hàng Đại chúng Việt Nam",
+        "bank_name": "PVcomBank – Vietnam Public Bank",
+        "bank_code": "PVCB"
+    },
+    {
+        "bank_cif": "334",
+        "bank_short_name": "SCB - Ngân hàng Sài Gòn",
+        "bank_name": "SCB - Saigon Commercial Bank",
+        "bank_code": "SCB"
+    },
+    {
+        "bank_cif": "303",
+        "bank_short_name": "Sacombank - Ngân hàng Sài Gòn Thương Tín",
+        "bank_name": "Sacombank - Sacom Bank",
+        "bank_code": "STB"
+    },
+    {
+        "bank_cif": "308",
+        "bank_short_name": "Saigonbank - Ngân hàng Sài Gòn Công thương",
+        "bank_name": "Saigonbank - Saigon bank for industry and trade",
+        "bank_code": "SGICB"
+    },
+    {
+        "bank_cif": "317",
+        "bank_short_name": "SeABank - Ngân hàng Đông Nam Á",
+        "bank_name": "SeABank - Southeast Asia Bank",
+        "bank_code": "SEAB"
+    },
+    {
+        "bank_cif": "358",
+        "bank_short_name": "TPB - Ngân hàng Tiên Phong",
+        "bank_name": "TPBank - Tienphong Bank",
+        "bank_code": "TPB"
+    },
+    {
+        "bank_cif": "310",
+        "bank_short_name": "Techcombank - Ngân hàng Kỹ Thương",
+        "bank_name": "Techcombank - Technological and Commercial Bank",
+        "bank_code": "TCB"
+    },
+    {
+        "bank_cif": "645",
+        "bank_short_name": "The Hongkong and shanghai Banking Corporation Limited",
+        "bank_name": "NH The Hongkong and Shanghai",
+        "bank_code": "HSBC"
+    },
+    {
+        "bank_cif": "600",
+        "bank_short_name": "The Siam Commercial Bank",
+        "bank_name": "NH THE SIAM COMMERCIAL BANK",
+        "bank_code": "SIAM"
+    },
+    {
+        "bank_cif": "208",
+        "bank_short_name": "VDB - Ngân hàng Phát triển Việt Nam",
+        "bank_name": "NH Phat trien Viet Nam",
+        "bank_code": "VDB"
+    },
+    {
+        "bank_cif": "314",
+        "bank_short_name": "VIB - Ngân hàng Quốc Tế",
+        "bank_name": "VIB - Vietnam International Bank",
+        "bank_code": "VIB"
+    },
+    {
+        "bank_cif": "309",
+        "bank_short_name": "VPBank - Ngân hàng Việt Nam Thịnh Vượng",
+        "bank_name": "VPBank - Vietnam Prosperity Bank",
+        "bank_code": "VPB"
+    },
+    {
+        "bank_cif": "505",
+        "bank_short_name": "VRB - Ngân hàng liên doanh Việt Nga",
+        "bank_name": "VRB - Vietnam Russia Bank",
+        "bank_code": "VRB"
+    },
+    {
+        "bank_cif": "355",
+        "bank_short_name": "VietABank - Ngân hàng Việt Á",
+        "bank_name": "VietABank - Viet A Bank",
+        "bank_code": "VAB"
+    },
+    {
+        "bank_cif": "356",
+        "bank_short_name": "VietBank - Ngân hàng Việt Nam Thương Tín",
+        "bank_name": "NH TMCP Viet Nam Thuong Tin",
+        "bank_code": "VIETBANK"
+    },
+    {
+        "bank_cif": "203",
+        "bank_short_name": "Vietcombank - Ngân hàng Ngoại thương",
+        "bank_name": "Vietcombank - Bank for Foreign trade of Vietnam",
+        "bank_code": "VCB"
+    },
+    {
+        "bank_cif": "201",
+        "bank_short_name": "Vietinbank - Ngân hàng Công thương",
+        "bank_name": "VietinBank - Vietin Bank",
+        "bank_code": "ICB"
+    },
+    {
+        "bank_cif": "663",
+        "bank_short_name": "Woori Bank VN",
+        "bank_name": "NGAN HANG WOORI VIET NAM",
+        "bank_code": "WOORI"
+    }
+]

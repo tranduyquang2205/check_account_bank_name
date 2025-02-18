@@ -1,0 +1,1116 @@
+{
+    "refNo": "KETOAN-2024062821381319",
+    "result": {
+        "message": "OK",
+        "ok": true,
+        "responseCode": "00"
+    },
+    "isNowOnCutOffTimeRange": null,
+    "isDayOff": null,
+    "workingTime": null,
+    "workingTimeDto": null,
+    "cutOffTimeDto": null,
+    "currentDateT24Warning": null,
+    "listBank": [
+        {
+            "bankId": "VIETINBANK",
+            "bankName": "Công Thương Việt Nam (VIETINBANK)",
+            "bankCode": null,
+            "smlCode": "970415",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "201"
+        },
+        {
+            "bankId": "BIDV",
+            "bankName": "Đầu tư và phát triển (BIDV)",
+            "bankCode": null,
+            "smlCode": "970418",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "202"
+        },
+        {
+            "bankId": "VCB",
+            "bankName": "Ngoại thương Việt Nam (VCB)",
+            "bankCode": null,
+            "smlCode": "970436",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "203"
+        },
+        {
+            "bankId": "VBA",
+            "bankName": "Nông nghiệp và Phát triển nông thôn (VBA)",
+            "bankCode": null,
+            "smlCode": "970405",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "204"
+        },
+        {
+            "bankId": "KBNN",
+            "bankName": "Kho bạc Nhà nước",
+            "bankCode": null,
+            "smlCode": null,
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "701"
+        },
+        {
+            "bankId": "TCB",
+            "bankName": "Kỹ Thương (TCB)",
+            "bankCode": null,
+            "smlCode": "970407",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "310"
+        },
+        {
+            "bankId": "VIB",
+            "bankName": "Quốc tế (VIB)",
+            "bankCode": null,
+            "smlCode": "970441",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "314"
+        },
+        {
+            "bankId": "EIB",
+            "bankName": "Xuất nhập khẩu (EIB)",
+            "bankCode": null,
+            "smlCode": "970431",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "305"
+        },
+        {
+            "bankId": "MSB",
+            "bankName": "Hàng hải (MSB)",
+            "bankCode": null,
+            "smlCode": "970426",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "302"
+        },
+        {
+            "bankId": "SHB",
+            "bankName": "Sài Gòn Hà Nội (SHB)",
+            "bankCode": null,
+            "smlCode": "970443",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "348"
+        },
+        {
+            "bankId": "TPB",
+            "bankName": "Tiên Phong (TPB)",
+            "bankCode": null,
+            "smlCode": "970423",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "358"
+        },
+        {
+            "bankId": "VPB",
+            "bankName": "Việt Nam Thịnh Vượng (VPB)",
+            "bankCode": null,
+            "smlCode": "970432",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "309"
+        },
+        {
+            "bankId": "LIOBANK",
+            "bankName": "Ngan hang so Liobank by OCB",
+            "bankCode": null,
+            "smlCode": "963369",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": null
+        },
+        {
+            "bankId": "DTPTHCM",
+            "bankName": "NGAN HANG ĐT VA PT CAMPUCHIA CN HO CHI MINH",
+            "bankCode": null,
+            "smlCode": null,
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "648"
+        },
+        {
+            "bankId": "BNPHN",
+            "bankName": "NGAN HANG BNP PARIBAS CN HA NOI",
+            "bankCode": null,
+            "smlCode": "963668",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "657"
+        },
+        {
+            "bankId": "CATHAYHCM",
+            "bankName": "Cathay United Bank – Chi nhánh Hồ Chí Minh",
+            "bankCode": null,
+            "smlCode": "168999",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "634"
+        },
+        {
+            "bankId": "CACIBHCM",
+            "bankName": "NH CREDIT AGRICOLE CIB CN TP HO CHI MINH",
+            "bankCode": null,
+            "smlCode": null,
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "621"
+        },
+        {
+            "bankId": "CAKEVPB",
+            "bankName": "Việt Nam Thinh Vượng CAKE BANK(VPB)",
+            "bankCode": null,
+            "smlCode": "546034",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "309"
+        },
+        {
+            "bankId": "UBANKVPB",
+            "bankName": "Việt Nam Thinh Vượng UBANK(VPB)",
+            "bankCode": null,
+            "smlCode": "546035",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "309"
+        },
+        {
+            "bankId": "TimoBanVietBank",
+            "bankName": "BVBank Timo – Ngân hàng số Timo",
+            "bankCode": null,
+            "smlCode": "963388",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": null
+        },
+        {
+            "bankId": "MAFC",
+            "bankName": "Cong ty Tai chinh TNHH MTV Mirae Asset",
+            "bankCode": null,
+            "smlCode": "977777",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": null
+        },
+        {
+            "bankId": "IBKHCM",
+            "bankName": "INDUSTRIAL BANK OF KOREA HCM (IBK)",
+            "bankCode": null,
+            "smlCode": "970456",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": null
+        },
+        {
+            "bankId": "SVFC",
+            "bankName": "Cong ty Tai chinh TNHH MTV Shinhan Viet Nam (SVFC)",
+            "bankCode": null,
+            "smlCode": "963368",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": null
+        },
+        {
+            "bankId": "VietQR_NAPAS",
+            "bankName": "CTCP TT QUOC GIA VIET NAM NAPAS",
+            "bankCode": null,
+            "smlCode": "971100",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": null
+        },
+        {
+            "bankId": "VIKKIBANK",
+            "bankName": "Vikki by HDBank",
+            "bankCode": null,
+            "smlCode": "963311",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": null
+        },
+        {
+            "bankId": "ABBANK",
+            "bankName": "An Bình (ABBANK)",
+            "bankCode": null,
+            "smlCode": "970425",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "323"
+        },
+        {
+            "bankId": "GPB",
+            "bankName": "Dầu khí toàn cầu (GPB)",
+            "bankCode": null,
+            "smlCode": "970408",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "320"
+        },
+        {
+            "bankId": "HDB",
+            "bankName": "NH PHÁT TRIỂN TP HCM (HDB)",
+            "bankCode": null,
+            "smlCode": "970437",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "321"
+        },
+        {
+            "bankId": "MHB",
+            "bankName": "Phát triển nhà Đồng bằng sông Cửu Long (MHB)",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "205"
+        },
+        {
+            "bankId": "OJB",
+            "bankName": "Đại Dương (OJB)",
+            "bankCode": null,
+            "smlCode": "970414",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "319"
+        },
+        {
+            "bankId": "BVB",
+            "bankName": "Bảo Việt (BVB)",
+            "bankCode": null,
+            "smlCode": "970438",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "359"
+        },
+        {
+            "bankId": "VID",
+            "bankName": "Liên doanh VID Public Bank (VID)",
+            "bankCode": null,
+            "smlCode": "970439",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "501"
+        },
+        {
+            "bankId": "NCB",
+            "bankName": "Quốc Dân (NCB)",
+            "bankCode": null,
+            "smlCode": "970419",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "352"
+        },
+        {
+            "bankId": "VAB",
+            "bankName": "Việt Á (VAB)",
+            "bankCode": null,
+            "smlCode": "970427",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "355"
+        },
+        {
+            "bankId": "OCB",
+            "bankName": "Phương Đông (OCB)",
+            "bankCode": null,
+            "smlCode": "970448",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "333"
+        },
+        {
+            "bankId": "SEAB",
+            "bankName": "Đông Nam Á (SEAB)",
+            "bankCode": null,
+            "smlCode": "970440",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "317"
+        },
+        {
+            "bankId": "SCB",
+            "bankName": "Sài Gòn (SCB)",
+            "bankCode": null,
+            "smlCode": "970429",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "334"
+        },
+        {
+            "bankId": "LPB",
+            "bankName": "Ngân hàng TMCP Bưu điện Liên Việt",
+            "bankCode": null,
+            "smlCode": "970449",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "357"
+        },
+        {
+            "bankId": "DAB",
+            "bankName": "Đông Á (DAB)",
+            "bankCode": null,
+            "smlCode": "970406",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "304"
+        },
+        {
+            "bankId": "NASB",
+            "bankName": "Bắc Á (NASB)",
+            "bankCode": null,
+            "smlCode": "970409",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "313"
+        },
+        {
+            "bankId": "SGB",
+            "bankName": "Sài Gòn Công thương (SGB)",
+            "bankCode": null,
+            "smlCode": "970400",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "308"
+        },
+        {
+            "bankId": "VIETBANK",
+            "bankName": "Việt Nam Thương tín (VIETBANK)",
+            "bankCode": null,
+            "smlCode": "970433",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "356"
+        },
+        {
+            "bankId": "VCCB",
+            "bankName": "BVBank – Ngân hàng TMCP Bản Việt",
+            "bankCode": null,
+            "smlCode": "970454",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "327"
+        },
+        {
+            "bankId": "KLB",
+            "bankName": "Kiên Long (KLB)",
+            "bankCode": null,
+            "smlCode": "970452",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "353"
+        },
+        {
+            "bankId": "PGB",
+            "bankName": "Ngân hàng TMCP Thịnh vượng và Phát triển",
+            "bankCode": null,
+            "smlCode": "970430",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "341"
+        },
+        {
+            "bankId": "PVC",
+            "bankName": "Đại chúng Việt Nam (PVC)",
+            "bankCode": null,
+            "smlCode": "970412",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "360"
+        },
+        {
+            "bankId": "ACB",
+            "bankName": "Á Châu (ACB)",
+            "bankCode": null,
+            "smlCode": "970416",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "307"
+        },
+        {
+            "bankId": "CSXH",
+            "bankName": "Chính sách Xã hội (CSXH)",
+            "bankCode": null,
+            "smlCode": "999888",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "207"
+        },
+        {
+            "bankId": "VDB",
+            "bankName": "Phát triển Việt Nam (VDB)",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "208"
+        },
+        {
+            "bankId": "NAMABANK",
+            "bankName": "Nam Á (NAMABANK)",
+            "bankCode": null,
+            "smlCode": "970428",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "306"
+        },
+        {
+            "bankId": "STB",
+            "bankName": "Sacombank (STB)",
+            "bankCode": null,
+            "smlCode": "970403",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "303"
+        },
+        {
+            "bankId": "HLB",
+            "bankName": "TNHH MTV Hong Leong VN (HLB)",
+            "bankCode": null,
+            "smlCode": "970442",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "603"
+        },
+        {
+            "bankId": "SHBVN",
+            "bankName": "MTV Shinhan Việt Nam (SHBVN)",
+            "bankCode": null,
+            "smlCode": "970424",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "616"
+        },
+        {
+            "bankId": "VRB",
+            "bankName": "Liên Doanh Việt Nga (VRB)",
+            "bankCode": null,
+            "smlCode": "970421",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "505"
+        },
+        {
+            "bankId": "KEB HANA HN",
+            "bankName": "NH KEB HANA CN HA NOI",
+            "bankCode": null,
+            "smlCode": "970467",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "626"
+        },
+        {
+            "bankId": "ANZ",
+            "bankName": "TNHH MTV ANZ Việt Nam (ANZ)",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "602"
+        },
+        {
+            "bankId": "BANGKOK",
+            "bankName": "Bangkok Bank CN Hà Nội",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "667"
+        },
+        {
+            "bankId": "CHINA",
+            "bankName": "Bank of China Hong Kong LTD HCM City Branch",
+            "bankCode": null,
+            "smlCode": "963688",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "620"
+        },
+        {
+            "bankId": "COMMUNICATION",
+            "bankName": "BANK OF COMMUNICATIONS (COMMUNICATION)",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "615"
+        },
+        {
+            "bankId": "INDIA",
+            "bankName": "Bank of India CN TP Hồ Chí Minh",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "659"
+        },
+        {
+            "bankId": "BIDC",
+            "bankName": "NH Đầu tư và Phát triển Campuchia CN Hà Nội",
+            "bankCode": null,
+            "smlCode": "555666",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "638"
+        },
+        {
+            "bankId": "BNP PARIBAS",
+            "bankName": "BNP-PARIBAS TP HCM",
+            "bankCode": null,
+            "smlCode": "963666",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "614"
+        },
+        {
+            "bankId": "Busan",
+            "bankName": "NH Busan CN TP Hồ Chí Minh",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "660"
+        },
+        {
+            "bankId": "CCB",
+            "bankName": "China Construction Bank Corporation CN TP HCM",
+            "bankCode": null,
+            "smlCode": null,
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "611"
+        },
+        {
+            "bankId": "CCF",
+            "bankName": "NH Hợp tác xã Việt Nam (Co-opbank)",
+            "bankCode": null,
+            "smlCode": "970446",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "901"
+        },
+        {
+            "bankId": "CHINATRUST",
+            "bankName": "TNHH CTBC (CHINATRUST)",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "629"
+        },
+        {
+            "bankId": "CIMB",
+            "bankName": "TNHH MTV CIMB Việt Nam (CIMB)",
+            "bankCode": null,
+            "smlCode": "422589",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "661"
+        },
+        {
+            "bankId": "CITIBANK",
+            "bankName": "Citi Bank Hà Nội",
+            "bankCode": null,
+            "smlCode": "533948",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "605"
+        },
+        {
+            "bankId": "COMMONWEALTH",
+            "bankName": "COMMONWEALTH BANK (COMMONWEALTH)",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "643"
+        },
+        {
+            "bankId": "DBS",
+            "bankName": "NH DBS Bank LTD CN TP HCM",
+            "bankCode": null,
+            "smlCode": "796500",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "650"
+        },
+        {
+            "bankId": "DEUTSCHE",
+            "bankName": "DEUTSCHE BANK AG (DEUTSCHE)",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "619"
+        },
+        {
+            "bankId": "ESUN",
+            "bankName": "Thương Mại TNHH E.SUN Dong Nai (ESUN)",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "658"
+        },
+        {
+            "bankId": "COMERCIAL HN",
+            "bankName": "FIRST COMMERCIAL BANK CN HA NOI",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "608"
+        },
+        {
+            "bankId": "KEB HANA HCM",
+            "bankName": "NH KEB HANA CN TP HCM",
+            "bankCode": null,
+            "smlCode": "970466",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "656"
+        },
+        {
+            "bankId": "HSBC",
+            "bankName": "TNHH MTV HSBC Việt Nam (HSBC)",
+            "bankCode": null,
+            "smlCode": "458761",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "617"
+        },
+        {
+            "bankId": "HUA NAN",
+            "bankName": "HUA NAN COMMERCIAL BANK (HUA NAN)",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "640"
+        },
+        {
+            "bankId": "IBK",
+            "bankName": "NH Công nghiệp Hàn Quốc CN Hà Nội",
+            "bankCode": null,
+            "smlCode": "970455",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "652"
+        },
+        {
+            "bankId": "ICBC",
+            "bankName": "ICB OF China CN Hà Nội",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "649"
+        },
+        {
+            "bankId": "MCB",
+            "bankName": "JPMORGAN CHASE (MCB)",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "627"
+        },
+        {
+            "bankId": "KOOKMIN",
+            "bankName": "NH Kookmin CN TP Hồ Chí Minh",
+            "bankCode": null,
+            "smlCode": "970463",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "631"
+        },
+        {
+            "bankId": "MALAYAN",
+            "bankName": "May Bank - Ho Chi Minh Branch",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "635"
+        },
+        {
+            "bankId": "MAYBANK",
+            "bankName": "May Bank - Ha Noi Branch",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "609"
+        },
+        {
+            "bankId": "MEGA",
+            "bankName": "MEGA ICBC (MEGA)",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "623"
+        },
+        {
+            "bankId": "MIZUHO",
+            "bankName": "Mizuho Bank Hà Nội",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "613"
+        },
+        {
+            "bankId": "NATIXIS",
+            "bankName": "BPCE IOM (NATIXIS)",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "601"
+        },
+        {
+            "bankId": "SHANGHAI",
+            "bankName": "The Shanghai Commercial Savings Dongnai",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "606"
+        },
+        {
+            "bankId": "Nong Hyup",
+            "bankName": "NH Nong Hyup CN Hà Nội",
+            "bankCode": null,
+            "smlCode": "801011",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "662"
+        },
+        {
+            "bankId": "CHINESE",
+            "bankName": "Oversea - Chinese Banking TP HCM",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "625"
+        },
+        {
+            "bankId": "SIAM",
+            "bankName": "The Siam Commercial Bank PUBLIC CN TP HCM",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "600"
+        },
+        {
+            "bankId": "SinoPac",
+            "bankName": "NH Sinopac CN TP HCM",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "632"
+        },
+        {
+            "bankId": "SMBC",
+            "bankName": "SUMITOMO MITSUI BANKING CORPORATION (SMBC)",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "636"
+        },
+        {
+            "bankId": "STANDARDCHARTERED",
+            "bankName": "STANDARD CHARTERED Việt Nam (STANDARDCHARTERED)",
+            "bankCode": null,
+            "smlCode": "970410",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "604"
+        },
+        {
+            "bankId": "TAIPEI",
+            "bankName": "Ngân hàng TAIPEI FUBON chi nhanh Ha Noi",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "642"
+        },
+        {
+            "bankId": "TokyoMitsubishi",
+            "bankName": "NH MUFG BANK LTD CN HA NOI",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "653"
+        },
+        {
+            "bankId": "CBB",
+            "bankName": "Xây dựng Việt Nam (CBB)",
+            "bankCode": null,
+            "smlCode": "970444",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "339"
+        },
+        {
+            "bankId": "UOB",
+            "bankName": "United Overseas Bank Việt Nam (UOB)",
+            "bankCode": null,
+            "smlCode": "970458",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "665"
+        },
+        {
+            "bankId": "Woori",
+            "bankName": "Woori Việt Nam (Woori)",
+            "bankCode": null,
+            "smlCode": "970457",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "663"
+        },
+        {
+            "bankId": "COMERCIAL HCM",
+            "bankName": "FIRST COMMERCIAL BANK CN TP HCM",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "630"
+        },
+        {
+            "bankId": "DAEGU",
+            "bankName": "Ngân hàng DAEGU CN TP HO CHI MINH",
+            "bankCode": null,
+            "smlCode": null,
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "668"
+        },
+        {
+            "bankId": "BANGKOKHCM",
+            "bankName": "Bangkok Đại chúng TNHH (BANGKOK) CN HCM",
+            "bankCode": null,
+            "smlCode": null,
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "612"
+        },
+        {
+            "bankId": "MIZUHOHCM",
+            "bankName": "MIZUHO BANK TP HO CHI MINH (MIZUHO)",
+            "bankCode": null,
+            "smlCode": null,
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "639"
+        },
+        {
+            "bankId": "AGRICULTURALCHINA",
+            "bankName": "NH AGRICULTURAL BANK OF CHINA LTD HN",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "664"
+        },
+        {
+            "bankId": "KASIKORNBANK CNHCM",
+            "bankName": "NH DAICHUNG TNHH KASIKORNBANK CNHCM",
+            "bankCode": null,
+            "smlCode": "668888",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "669"
+        },
+        {
+            "bankId": "TokyoMitsubishiHCM",
+            "bankName": "NH MUFG BANK LTD CN TP HCM",
+            "bankCode": null,
+            "smlCode": null,
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "622"
+        },
+        {
+            "bankId": "KOOKMIN CN HN",
+            "bankName": "NH KOOKMIN CN HA NOI",
+            "bankCode": null,
+            "smlCode": "970462",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "666"
+        },
+        {
+            "bankId": "TAIPEIHCM",
+            "bankName": "Ngân hàng TAIPEI FUBON chi nhanh TPHCM",
+            "bankCode": null,
+            "smlCode": null,
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "651"
+        },
+        {
+            "bankId": "TAIPEIBD",
+            "bankName": "Ngân hàng TAIPEI FUBON chi nhanh BINH DUONG",
+            "bankCode": null,
+            "smlCode": null,
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "655"
+        },
+        {
+            "bankId": "IVB",
+            "bankName": "Indovina (IVB)",
+            "bankCode": null,
+            "smlCode": "970434",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "502"
+        },
+        {
+            "bankId": "CITIBANKHCM",
+            "bankName": "Citibank TP.Hồ Chí Minh (CITIBANK)",
+            "bankCode": null,
+            "smlCode": " ",
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "654"
+        },
+        {
+            "bankId": "NHNN",
+            "bankName": "Ngân hàng nhà nước (NHNN)",
+            "bankCode": null,
+            "smlCode": null,
+            "citadCode": null,
+            "typeTransfer": null,
+            "indirectCitadCode": null,
+            "domBankIbps": "101"
+        }
+    ]
+}
