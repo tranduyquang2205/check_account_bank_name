@@ -107,3 +107,5 @@ data/*/*.json
 data/*/*/*.json
 !data\ocb\cookies\*.json
 data\ocb\users\*.json
+data/*/*.pkl
+data/*/*/*.pkl
